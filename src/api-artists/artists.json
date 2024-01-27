@@ -9,7 +9,10 @@
       { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
       { "id": 8, "name": "Guns N' Roses", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" },
       { "id": 9, "name": "Travis Scott", "genre": "Rap", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71" },
-      { "id": 10, "name": "Iron Maiden", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb232a905537f61c00da9d16e0" }
-      
+      { "id": 10, "name": "Iron Maiden", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb232a905537f61c00da9d16e0" },
+      { "id": 11, "name": "Metallica", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" },
+      { "id": 12, "name": "Led Zeppelin", "genre": "Rock", "urlImg": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" },
+      { "id": 13, "name": "Black Sabbath", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" },
+      { "id": 14, "name": "AC/DC", "genre": "Hard Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" }
     ]
   }

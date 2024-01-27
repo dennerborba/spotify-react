@@ -1,6 +1,7 @@
-import './components/Main/Main'
-import './components/Header/Header'
+import './components/Main/Main.js'
+import './components/Header/Header.js'
 
+export default function SearchScript(){
 const searchInput = document.getElementById('search-input')
 const resultArtist = document.getElementById("result-artist")
 const resultPlaylist = document.getElementById('result-playlists')
@@ -34,3 +35,4 @@ document.addEventListener('input', () => {
     }
     requestAPI(searchTerm)
 })
+}

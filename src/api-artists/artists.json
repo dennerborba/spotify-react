@@ -13,6 +13,8 @@
       { "id": 11, "name": "Metallica", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" },
       { "id": 12, "name": "Led Zeppelin", "genre": "Rock", "urlImg": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" },
       { "id": 13, "name": "Black Sabbath", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" },
-      { "id": 14, "name": "AC/DC", "genre": "Hard Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" }
+      { "id": 14, "name": "AC/DC", "genre": "Hard Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" },
+      { "id": 15, "name": "Slipknot", "genre": "Heavy Metal", "urlImg": "https://i.scdn.co/image/ab67616100005174ff9f4de8c13f6f563acbfaf1" }
+
     ]
   }
